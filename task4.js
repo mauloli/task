@@ -17,7 +17,9 @@ let data = {
 const changeData = {
     ...data,
     name: 'Maulana Sholihin',
-    hobi: 'freedive',
+    hobi: {
+        hobi: 'test'
+    },
     email: 'maulanasholihinoi@gmail.com'
 }
 console.log(changeData)

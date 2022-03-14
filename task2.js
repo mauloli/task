@@ -18,7 +18,7 @@ nilaiUn = (mtk, bhs, ing, ipa) => {
         console.log(`Rata-Rata = ${rataRata}`)
         console.log(`Grade = ${grade}`)
     } else {
-        console.log('masukan seluruh angka dengan benar')
+        console.log('masukan seluruh angka dengan benar.')
     }
 
 
