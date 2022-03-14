@@ -1,4 +1,4 @@
-const Biodata = {
+const biodata = {
     name: 'Maulana sholihin',
     age: 17,
     hoobies: ['music', 'freedive', 'traveling'],
@@ -30,11 +30,11 @@ const Biodata = {
             Level: 'Beginner'
         },
         {
-            skillName: 'Swimming',
+            skillName: 'Freedive',
             Level: 'Advance'
         }
     ],
     interestinCoding: true
 }
 
-console.log(Biodata.schoolList[2].major)
+console.log(biodata)
